@@ -18,3 +18,4 @@ Simple Android application to calculate a tip amount
 
 ## How it looks?
 
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/46136468/179417272-17b0ac0b-7a1a-4ed3-82d3-64339b07766c.gif)
