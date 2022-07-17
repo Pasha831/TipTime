@@ -1,4 +1,4 @@
-# TipTime 💸
+# TipTime💸
 
 Simple Android application to calculate a tip amount
 
